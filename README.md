@@ -1,6 +1,6 @@
 <h1>Olá! Bem-vindo ao meu perfil.👋</h1>
-<h2></h4>Sou apaixonado por programação, sempre buscando aprender novas habilidades e aplicá-las em projetos incríveis!</h2>
-
+<h2>Sou apaixonado por programação, sempre buscando aprender novas habilidades e aplicá-las em projetos incríveis!</h2>
+<br>
 - 🔭 Procurando uma oportunidade para me desenvolver.
 - 🌱 Estudando react e node.js ...
 - 👯 Cursando  Análise e Desenvolvimento de Sistemas com bolsa de 100% pelo PROUNI.
