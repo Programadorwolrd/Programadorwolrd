@@ -1,7 +1,7 @@
 <h1>Olá! Bem-vindo ao meu perfil.👋</h1>
 
 
- Sou apaixonado por programação, sempre buscando aprender novas habilidades e aplicá-las em projetos incríveis!
+ Sou apaixonado por programação e Design, sempre buscando aprender novas habilidades e aplicá-las em projetos incríveis!
 
 - 🔭 Procurando uma oportunidade para me desenvolver.
 - 🌱 Estudando react e node.js ...
