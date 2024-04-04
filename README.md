@@ -3,10 +3,11 @@
 
  Sou apaixonado por programação e Design, sempre buscando aprender novas habilidades e aplicá-las em projetos incríveis!
 
+- 🤔 Projeto Comunitario em andamento para a Prefeitura de Caraguatuba-sp Aplicativo em React Native e Site em React.
 - 🔭 Procurando uma oportunidade para me desenvolver.
 - 🌱 Estudando react e node.js ...
 - 👯 Cursando  Análise e Desenvolvimento de Sistemas com bolsa de 100% pelo PROUNI.
-- 🤔 Projeto principal SmartBus.
+
 
 
 <div style="display: inline_block"><br>
